@@ -51,7 +51,7 @@
 					"isSequential": false,
 					"activities": [
 						{
-							"name": "Set variable1",
+							"name": "Set variable Fetching List",
 							"type": "SetVariable",
 							"dependsOn": [],
 							"policy": {
